@@ -1,0 +1,12 @@
+# 文章目录
+- [1.检视阅读五步法，快速了解一本书的方法](01 how to  inspectional reading reading.md)
+- [2.秒杀一切的学习方法，你想学吗？（附彩蛋）](02 xin li biao zheng xue xi fa.md)
+-  [检视阅读模板](05jianshi yuedu moban.md)
+- [检视阅《好好学习》-01](01 jianshi_01.md)
+- [ 检视阅读《复盘》-02](02 jianshi_02.md)
+- [检视阅读《这样读书就够了》-03](03 jianshi_03.md)
+- [ 检视阅读《星座神话》-04](04 jianshi_04.md)
+- [ 检视阅读《颜氏家训》-05](05 jianshi_05.md)
+-  [检视阅读《隧道工程》-06](06 jianshi_06.md)
+- [检视阅读过程疑问](04 Q&A.md)
+
